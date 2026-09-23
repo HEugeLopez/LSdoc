@@ -7,6 +7,8 @@ icon: rocket-launch
 
 ## 1.0 > What is LoyaltyStars?
 
+<figure><img src="../.gitbook/assets/what-is-loyaltystars.png" alt=""><figcaption></figcaption></figure>
+
 LoyaltyStars is the easiest way to launch and run a loyalty program. Configure earning and redemption for any product or service, in minutes, without writing a line of code. LoyaltyStars handles everything else: awarding stars instantly, tracking every balance and recording every transaction.
 
 #### 1.1 > What you can do with it?
@@ -28,11 +30,13 @@ Join the LoyaltyStars ecosystem to give your customers rewards worth coming back
 
 Whether you're the brand running the program, the developer connecting it, or the member collecting the stars, there's a place built for you.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>For Brands</h4></td><td>Design, launch and run your loyalty program. Set what earns stars, what they're worth and which rewards are on offer, then watch your members grow.</td><td></td></tr><tr><td><h4>For Developers</h4></td><td>Plug LoyaltyStars into your platform. Award stars automatically, sign members in with the account they already have and keep everything in sync.</td><td></td></tr><tr><td><h4>For Members</h4></td><td>Earn stars for the things you already do, see your balance grow and redeem it for rewards you'll actually want.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>For Brands</h4></td><td>Design, launch and run your loyalty program. Set what earns stars, what they're worth and which rewards are on offer, then watch your members grow.</td><td></td><td><a href="../.gitbook/assets/brands.png">brands.png</a></td></tr><tr><td><h4>For Developers</h4></td><td>Plug LoyaltyStars into your platform. Award stars automatically, sign members in with the account they already have and keep everything in sync.</td><td></td><td><a href="../.gitbook/assets/developers.png">developers.png</a></td></tr><tr><td><h4>For Members</h4></td><td>Earn stars for the things you already do, see your balance grow and redeem it for rewards you'll actually want.</td><td></td><td><a href="../.gitbook/assets/members.png">members.png</a></td></tr></tbody></table>
 
 ***
 
 ## 3.0 > How it works?&#x20;
+
+<figure><img src="../.gitbook/assets/how-it-works.png" alt=""><figcaption></figcaption></figure>
 
 Every loyalty program on LoyaltyStars follows the same loop. Once you know it, everything else in the platform will make sense.
 
