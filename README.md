@@ -6,7 +6,7 @@ coverY: 0
 
 # Welcome to LoyaltyStars
 
-Whether you're launching your first loyalty programme or managing one that's already running, you're in the right place. These guides will show you how things work and help you get tasks done quickly.
+For program managersFor program managersFor program managersWhether you're launching your first loyalty programme or managing one that's already running, you're in the right place. These guides will show you how things work and help you get tasks done quickly.
 
 ### Where would you like to start?
 
@@ -22,3 +22,4 @@ Whether you're launching your first loyalty programme or managing one that's alr
 
 ## Popular Task
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>For program managers</h4></td><td><ul><li>Earning rules</li><li>Redemption rules</li><li>Program settings</li></ul></td><td><a href=".gitbook/assets/for-program-managers.png">for-program-managers.png</a></td></tr><tr><td><h4>For developers</h4></td><td><ul><li>API Quickstart</li><li>API keys and authentication</li><li>Setting up SSO</li></ul></td><td><a href=".gitbook/assets/for-developers.png">for-developers.png</a></td></tr><tr><td><h4>For support teams</h4></td><td><ul><li>Finding a member</li><li>Adjusting stars</li><li>Member activity</li></ul></td><td><a href=".gitbook/assets/for-support-teams.png">for-support-teams.png</a></td></tr></tbody></table>
