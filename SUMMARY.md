@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Loyalty Star](README.md)
+* [Welcome to LoyaltyStars](README.md)
 
 ## GETTING STARTED
 
