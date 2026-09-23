@@ -4,4 +4,4 @@
 
 ## GETTING STARTED
 
-* [Page 2](getting-started/page-2.md)
+* [Getting Started](getting-started/getting-started.md)
